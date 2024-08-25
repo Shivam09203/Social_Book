@@ -24,5 +24,4 @@ Social Book is a web application built using Python, Django, SQLite, HTML, CSS, 
 To get started with Social Book, follow these steps:
 
 1. **Clone the Repository**:
-   git bash
    git clone <https://github.com/Shivam09203/Social_Book>
